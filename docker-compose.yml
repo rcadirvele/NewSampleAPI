@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  newsampleapi:
+    image: ${DOCKER_REGISTRY-}newsampleapi
+    build:
+      context: .
+      dockerfile: NewSampleAPI/Dockerfile

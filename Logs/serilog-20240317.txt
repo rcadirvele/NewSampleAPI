@@ -1,0 +1,2 @@
+2024-03-17 15:58:58.779 +00:00 [INF] Calculating for Add
+2024-03-17 15:58:58.801 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 73.3570 ms

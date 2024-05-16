@@ -1,0 +1,16 @@
+2024-03-19 22:44:34.950 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-19 22:46:09.123 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 94231.7344 ms
+2024-03-19 23:10:43.929 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-19 23:11:14.776 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 30912.4590 ms
+2024-03-19 23:11:59.071 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-19 23:12:19.803 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 20790.4486 ms
+2024-03-19 23:14:51.090 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-19 23:15:08.909 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 17832.7805 ms
+2024-03-19 23:16:19.393 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-19 23:16:34.477 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 15157.8104 ms
+2024-03-19 23:17:07.562 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 6462.6332 ms
+2024-03-19 23:17:23.871 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 5128.7881 ms
+2024-03-19 23:41:26.132 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-19 23:41:40.249 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 14185.7857 ms
+2024-03-19 23:54:55.081 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-19 23:55:11.811 +00:00 [INF] HTTP GET /Calculator/Calculate responded 200 in 16795.8920 ms

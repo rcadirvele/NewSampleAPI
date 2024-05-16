@@ -1,0 +1,6 @@
+2024-03-26 14:58:05.495 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-26 14:59:41.377 +00:00 [INF] HTTP POST /api/v1/Calculator/Calculate responded 200 in 95936.0954 ms
+2024-03-26 15:13:03.255 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-26 15:13:26.086 +00:00 [INF] HTTP POST /api/v1/Calculator/Calculate responded 400 in 22872.0675 ms
+2024-03-26 15:26:27.378 +00:00 [INF] Found AWS credentials for the profile DemoDynamoDb
+2024-03-26 15:26:35.096 +00:00 [INF] HTTP POST /api/v1/Calculator/Calculate responded 400 in 7810.9279 ms

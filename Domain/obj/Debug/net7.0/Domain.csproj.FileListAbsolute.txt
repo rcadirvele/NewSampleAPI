@@ -1,0 +1,12 @@
+/Users/ram/Projects/NewSampleAPI/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/ram/Projects/NewSampleAPI/Domain/bin/Debug/net7.0/Domain.dll
+/Users/ram/Projects/NewSampleAPI/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/Domain.dll
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/ram/Projects/NewSampleAPI/Domain/obj/Debug/net7.0/ref/Domain.dll
